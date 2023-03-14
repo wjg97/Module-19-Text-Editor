@@ -66,8 +66,7 @@
   THEN I should have proper build scripts for a webpack application
 
   ## Screenshot
-  ![Screenshot 2023-03-13 at 10 25 56 PM](https://user-images.githubusercontent.com/113846649/224893537-e873a4f1-26b4-452d-ba79-b091bf53f879.png)
-
+  ![Screenshot 2023-03-13 at 10 25 56 PM](https://user-images.githubusercontent.com/113846649/224893705-b6586ad7-c964-46c5-923e-1ab4164cc7ba.png)
 
   ## Questions
   Email me with Questions <br />
